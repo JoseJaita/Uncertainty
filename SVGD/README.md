@@ -5,6 +5,6 @@
 
 
 ### Binary Classification
-	<p float="left" align="center">
-      <img src="/imgs/figure_1.png"  />
+    <p float="left" align="center">
+      <img src="/imgs/figure_1.png"  width="400" />
     </p>
