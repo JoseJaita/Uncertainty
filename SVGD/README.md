@@ -5,5 +5,5 @@
 
 
 ### Binary Classification
-    ![GitHub Logo](/imgs/figure_1.png)
-    Format: ![Alt Text](url)
+    ![figure_1](https://user-images.githubusercontent.com/33939469/55565283-2f129500-56bf-11e9-907f-028fd8ea1224.png)
+
